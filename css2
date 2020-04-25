@@ -1,0 +1,151 @@
+!DOCTYPE html>
+<html  >
+<head>
+  <!-- Site made with Mobirise Website Builder v4.12.3, https://mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v4.12.3, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/logo2.png" type="image/x-icon">
+  <meta name="description" content="Site Maker Description">
+  
+  
+  <title>Dynamic Programming</title>
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  
+  
+  
+</head>
+<body>
+  <section class="menu cid-rX5sDRIpBt" once="menu" id="menu1-1b">
+
+    
+
+    <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-toggleable-sm bg-color transparent">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </button>
+        <div class="menu-logo">
+            <div class="navbar-brand">
+                <span class="navbar-logo">
+                    <a href="index.html">
+                         <img src="assets/images/logo2.png" alt="Mobirise" title="" style="height: 3.8rem;">
+                    </a>
+                </span>
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="index.html">
+                        DAA</a></span>
+            </div>
+        </div>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item">
+                    <a class="nav-link link text-white display-4" href="index.html">
+                        <span class="mbri-home mbr-iconfont mbr-iconfont-btn"></span>
+                        HOME PAGE</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link link text-white display-4" href="page1.html"><span class="mbri-more-vertical mbr-iconfont mbr-iconfont-btn"></span>
+                        
+                        INDEX</a>
+                </li></ul>
+            
+        </div>
+    </nav>
+</section>
+
+<section class="engine"><a href="https://mobirise.info/r">bootstrap template</a></section><section class="mbr-section article content10 cid-rX5peXMiVQ" id="content10-z">
+    
+     
+
+    <div class="container">
+        <div class="inner-container" style="width: 66%;">
+            <hr class="line" style="width: 25%;">
+            <div class="section-text align-center mbr-white mbr-fonts-style display-5">DYNAMIC PROGRAMMING</div>
+            <hr class="line" style="width: 25%;">
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section article content1 cid-rX5pfFgvgt" id="content1-10">
+    
+     
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="mbr-text col-12 mbr-fonts-style display-7 col-md-8"><p><strong>Dynamic programming (DP) is a method for solving a complex problem by breaking it down into simpler subproblems. We solve the subproblems, remember their results and using them we make our way to solving the complex problem, quickly.
+</strong></p><p><strong>
+</strong></p><p><strong>I cannot help but quote this answer on Quora to explain DP in layman terms.
+</strong></p><p>*writes down “1+1+1+1+1+1+1+1 =” on a sheet of paper* What’s that equal to?
+</p><p>*counting* Eight!
+</p><p>*writes down another “1+” on the left* What about that?
+</p><p>*quickly* Nine!
+</p><p>How’d you know it was nine so fast?
+</p><p>You just added one more
+</p><p>So you didn’t need to recount because you remembered there were eight! Dynamic Programming is just a fancy way to say ‘remembering stuff to save time later’
+</p><p><strong>
+</strong></p><p><strong>Applications:</strong><strong></strong></p><p><strong>There are many DP <a href="https://en.wikiversity.org/wiki/Dynamic_programming">algorithms</a> and <a href="https://www.quora.com/What-are-some-real-world-problems-that-have-been-solved-with-dynamic-programming">applications </a>but I’d name one and blow you away, Duckworth-Lewis method in cricket.</strong></p></div>
+        </div>
+    </div>
+</section>
+
+<section class="cid-rX5u3OGYYY" id="footer1-1g">
+
+    
+
+    
+
+    <div class="container">
+        <div class="media-container-row content text-white">
+            <div class="col-12 col-md-3">
+                <div class="media-wrap">
+                    <a href="index.html">
+                        <img src="assets/images/mbr-192x128.jpg" alt="Mobirise" title="">
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <h5 class="pb-3"><p>Faculty&nbsp;</p></h5>
+                <p class="mbr-text"><strong>Dr. N. Partibhan</strong></p>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <h5 class="pb-3">
+                    Contacts<br>
+                </h5>
+                <p class="mbr-text">Email: av3825@srmist.edu.in &nbsp; &nbsp; &nbsp; &nbsp;<br>Phone: +91 - 9717737106 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br></p>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <h5 class="pb-3">Personal Info</h5>
+                <p class="mbr-text">Name: Samvartika Mishra
+<br>Reg No: RA1811029010027<p>
+            </div>
+        </div>
+        
+    </div>
+</section>
+
+
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/popper/popper.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/tether/tether.min.js"></script>
+  <script src="assets/smoothscroll/smooth-scroll.js"></script>
+  <script src="assets/dropdown/js/nav-dropdown.js"></script>
+  <script src="assets/dropdown/js/navbar-dropdown.js"></script>
+  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+  
+  
+</body>
+</html>
